@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alberto Alvarado</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertoalvarado94&label=Profile%20views&color=0e75b6&style=flat" alt="albertoalvarado94" /> </p>
-
 - 🌱 I’m currently learning **about data scientist**
 
 - 📫 How to reach me **aaau.2294@gmail.com**
@@ -13,3 +11,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertoalvarado94&show_icons=true&locale=en&layout=compact" alt="albertoalvarado94" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albertoalvarado94&show_icons=true&locale=en" alt="albertoalvarado94" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertoalvarado94&label=Profile%20views&color=0e75b6&style=flat" alt="albertoalvarado94" /> </p>
